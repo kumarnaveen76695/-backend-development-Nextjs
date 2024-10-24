@@ -79,3 +79,8 @@ For references of this project:
 
 video:https://www.loom.com/share/f1e2ec3c44734de68fa86bb54afbdddf?sid=a5f40d76-1baf-4772-944a-46c88b04df04
 
+
+Register process of this project:
+
+![image](https://github.com/user-attachments/assets/11e74a69-ce4f-4413-ae03-e9b615dbcc83)
+
