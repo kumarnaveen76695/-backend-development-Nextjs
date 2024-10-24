@@ -24,16 +24,22 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+next - Core Next.js framework.
+react - React library for building user interfaces.
+react-dom - React package for DOM manipulation.
+jsonwebtoken - Library for working with JSON Web Tokens (JWT) for authentication.
+bcryptjs - Library for hashing passwords.
+dotenv - For managing environment variables.
+pg (or mysql2) - Database driver for PostgreSQL (or MySQL).
+sequelize (or prisma) - ORM for database interaction.
+joi (or yup) - For input validation.
+multer - Middleware for handling file uploads.
+csv-parser - For parsing CSV files.
+xlsx - For handling Excel file operations.
+cors - Middleware for enabling Cross-Origin Resource Sharing.
+date-fns or moment-timezone - For date-time handling with timezones.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
