@@ -25,18 +25,31 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 next - Core Next.js framework.
+
 react - React library for building user interfaces.
+
 react-dom - React package for DOM manipulation.
+
 jsonwebtoken - Library for working with JSON Web Tokens (JWT) for authentication.
+
 bcryptjs - Library for hashing passwords.
+
 dotenv - For managing environment variables.
+
 pg (or mysql2) - Database driver for PostgreSQL (or MySQL).
+
 sequelize (or prisma) - ORM for database interaction.
+
 joi (or yup) - For input validation.
+
 multer - Middleware for handling file uploads.
+
 csv-parser - For parsing CSV files.
+
 xlsx - For handling Excel file operations.
+
 cors - Middleware for enabling Cross-Origin Resource Sharing.
+
 date-fns or moment-timezone - For date-time handling with timezones.
 
 
