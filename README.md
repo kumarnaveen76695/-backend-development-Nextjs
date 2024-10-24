@@ -24,6 +24,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+The Dependences are install in this project:
+
 next - Core Next.js framework.
 
 react - React library for building user interfaces.
@@ -54,16 +56,24 @@ date-fns or moment-timezone - For date-time handling with timezones.
 
 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 
 ###post details url is "localhost:3000/api/contacts"
 
+![image](https://github.com/user-attachments/assets/3ccc9589-c735-4dd7-8b28-000173a0e624)
+
+
 ###geting all detils from database url is ""localhost:3000/api/contacts"
+
+![image](https://github.com/user-attachments/assets/b2aff169-c22e-4165-b2d9-aa16db7bea9b)
+
 
 ###geting specific id details url is "localhost:3000/api/contacts?id=5"
 
+![image](https://github.com/user-attachments/assets/75721096-74ea-4cbb-8db0-5a8102bee4de)
+
+
 ###deleting specific id details url is "localhost:3000/api/contacts?id=5"
+
+![image](https://github.com/user-attachments/assets/56cfaaea-3215-4542-80d4-299e7576523b)
+
 
