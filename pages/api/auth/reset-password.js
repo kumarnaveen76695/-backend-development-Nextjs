@@ -12,6 +12,7 @@ export default async function handler(req, res) {
   await db.query('UPDATE users SET reset_token = ? WHERE email = ?', [resetToken, email]);
 
   // Send reset email
+  
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: { user: 'your_email@gmail.com', pass: 'your_password' },
