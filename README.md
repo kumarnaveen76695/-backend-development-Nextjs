@@ -38,3 +38,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+###post details url is "localhost:3000/api/contacts"
+
+###geting all detils from database url is ""localhost:3000/api/contacts"
+
+###geting specific id details url is "localhost:3000/api/contacts?id=5"
+
+###deleting specific id details url is "localhost:3000/api/contacts?id=5"
+
