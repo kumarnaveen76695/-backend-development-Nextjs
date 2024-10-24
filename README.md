@@ -54,6 +54,12 @@ cors - Middleware for enabling Cross-Origin Resource Sharing.
 date-fns or moment-timezone - For date-time handling with timezones.
 
 
+Register process:
+
+![image](https://github.com/user-attachments/assets/30b90e9b-77df-4569-afc2-e902282f4f0f)
+
+
+
 
 JWT TOKEN generation:
 
