@@ -55,6 +55,13 @@ date-fns or moment-timezone - For date-time handling with timezones.
 
 
 
+JWT TOKEN generation:
+
+![image](https://github.com/user-attachments/assets/a03d8b97-ae4f-4668-ba0a-d0e496cac070)
+
+
+
+
 
 ###post details url is "localhost:3000/api/contacts"
 
