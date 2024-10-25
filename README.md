@@ -92,6 +92,17 @@ For references of this project:
 
 video:https://www.loom.com/share/f1e2ec3c44734de68fa86bb54afbdddf?sid=a5f40d76-1baf-4772-944a-46c88b04df04
 
+mysql database users table:
+
+![image](https://github.com/user-attachments/assets/e378ef12-84aa-43a4-a22e-a72cbec8f3ff)
+
+
+
+
+MYSQL database contacts table:
+
+![image](https://github.com/user-attachments/assets/a52827db-3a37-4d05-816a-9dc7dd5fcbba)
+
 
 
 
